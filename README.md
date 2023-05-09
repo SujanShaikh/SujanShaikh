@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujanShaikh
 - 👀 I’m interested in Java development 
-- 🌱 I’m currently Advance Java
+- 🌱 I’m currently learning Advance Java
 - 💞️ I’m looking to collaborate on Java development projects. 
 - 📫 How to reach me sujanshaikh2016@gmail.com 
 
